@@ -1,0 +1,13 @@
+# Core Scientific & Data Analysis
+numpy
+pandas
+scipy
+statsmodels
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Jupyter Interactive Environment
+notebook
+ipykernel
